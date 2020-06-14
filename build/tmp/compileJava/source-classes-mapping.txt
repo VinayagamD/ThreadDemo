@@ -75,3 +75,9 @@ com/vinaylogics/javathreads/synchronize/MethodSynchronizeLockDemo.java
 com/vinaylogics/javathreads/synchronize/BlockSynchronizeDemo.java
  com.vinaylogics.javathreads.synchronize.BlockSynchronizeDemo
  com.vinaylogics.javathreads.synchronize.BlockSynchronizeDemo$Geek
+com/vinaylogics/javathreads/callableandfuture/WithOnlyRunnableDemo.java
+ com.vinaylogics.javathreads.callableandfuture.WithOnlyRunnableDemo
+ com.vinaylogics.javathreads.callableandfuture.WithOnlyRunnableDemo$MyRunnable
+com/vinaylogics/javathreads/callableandfuture/CallableAndFutureDemo.java
+ com.vinaylogics.javathreads.callableandfuture.CallableAndFutureDemo
+ com.vinaylogics.javathreads.callableandfuture.CallableAndFutureDemo$MyCallable
